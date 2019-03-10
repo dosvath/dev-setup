@@ -1,6 +1,15 @@
-Custom dev environment.
+Custom dev/new mac environment.
 
+### Bash
 copy .bash_profile, .git-completion.bash, .git-prompt.sh into ~/
+
+### Zsh-iTerm 2
+
+Install oh-my-zsh. 
+Get the iTerm2 nightly build: https://iterm2.com/downloads/nightly/#/section/home
+Set theme to minimal. 
+Profile window set to compact.
+Configure minimal tab style. 
 
 Key Repeat
 ---------
@@ -24,3 +33,6 @@ sudo mv Image\ Capture.app/ Disable\ Image\ Capture.app/
 cd /System/Library/Image\ Capture/Support/
 sudo mv icdd icdd-disable
 ```
+
+
+
