@@ -11,6 +11,10 @@ Set theme to minimal.
 Profile window set to compact.
 Configure minimal tab style. 
 
+Tab background color diff: 0.02999999932944775
+How prominent should tab outline be: 0.01999999955296516
+Tab bar height: 38
+ 
 Key Repeat
 ---------
 `defaults write -g InitialKeyRepeat -int 10` # normal minimum is 15 (225 ms)<br>
