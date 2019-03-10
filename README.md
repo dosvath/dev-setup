@@ -6,6 +6,7 @@ copy .bash_profile, .git-completion.bash, .git-prompt.sh into ~/
 ### Zsh-iTerm 2
 
 Install oh-my-zsh. 
+Oh-my-zsh theme: avit
 Get the iTerm2 nightly build: https://iterm2.com/downloads/nightly/#/section/home
 Set theme to minimal. 
 Profile window set to compact.
