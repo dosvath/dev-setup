@@ -49,9 +49,6 @@ Copy the vim files into `~/`
 ## Hidden Files
 `defaults write com.apple.finder AppleShowAllFiles YES`
 
-## rm Dashboard
-`defaults write com.apple.dashboard mcx-disabled -boolean YES && killall Dock`
-
 ## disable iccd
 The image capture app process that uses a lot of cpu and memory.
 ```
