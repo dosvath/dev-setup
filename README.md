@@ -46,10 +46,13 @@ Copy the vim files into `~/`
 
 `defaults write -g KeyRepeat -int 1` # normal minimum is 2 (30 ms)
 
+## Directory Tree
+`brew install tree`
+
 ## Hidden Files
 `defaults write com.apple.finder AppleShowAllFiles YES`
 
-## disable iccd
+## disable icdd
 The image capture app process that uses a lot of cpu and memory.
 ```
 cd /Applications
