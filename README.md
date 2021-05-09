@@ -28,18 +28,17 @@ Install [autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 Copy `.zshrc` to `~/.zshrc`
 
 ### Tab Settings 
-Tab background color diff: `0.02999999932944775`
-
-How prominent should tab outline be: `0.01999999955296516`
-
 Tab bar height: `38`
 
 Oh-my-zsh theme: `avit`
 
-Powerline Font: `Meslo LG M Regular`
+Powerline Font: `Menlo`
 
 ## Vim
-Copy the vim files into `~/`
+Copy the vim files into `~/`:
+`~/.vimrc`
+`~/.vim/colors`
+`~/.vim/autoload`
 
 ## Key Repeat
 `defaults write -g InitialKeyRepeat -int 10` # normal minimum is 15 (225 ms)
@@ -51,12 +50,3 @@ Copy the vim files into `~/`
 
 ## Hidden Files
 `defaults write com.apple.finder AppleShowAllFiles YES`
-
-## disable icdd
-The image capture app process that uses a lot of cpu and memory.
-```
-cd /Applications
-sudo mv Image\ Capture.app/ Disable\ Image\ Capture.app/
-cd /System/Library/Image\ Capture/Support/
-sudo mv icdd icdd-disable
-```
