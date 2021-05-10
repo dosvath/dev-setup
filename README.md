@@ -50,3 +50,10 @@ Copy the vim files into `~/`:
 
 ## Hidden Files
 `defaults write com.apple.finder AppleShowAllFiles YES`
+
+## Git
+```
+git config --global user.name "username"
+git config --global user.email name@example.com
+```
+Generate SSH and GPG keys. 
