@@ -1,12 +1,5 @@
 Custom dev/new mac environment.
 
-## Bash
-A simple bash setup.
-
-copy `.bash_profile`, `.git-completion.bash`, `.git-prompt.sh` into ~/
-
-![](/bash/bash.png)
-
 ## Zsh-iTerm 2
 
 A nice looking iTerm setup with zsh and autosuggestions. 
