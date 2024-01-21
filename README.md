@@ -12,8 +12,6 @@ Get the [iTerm2 nightly build](https://iterm2.com/downloads/nightly/#/section/ho
 
 Set theme to minimal.
 
-Profile window set to compact.
-
 Configure minimal tab style.
 
 Install [autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
